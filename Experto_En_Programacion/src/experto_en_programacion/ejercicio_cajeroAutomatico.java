@@ -29,6 +29,7 @@ public class ejercicio_cajeroAutomatico {
         int opcion;
         
         do{
+        
         System.out.println("1. Saldo de Cuenta");
         System.out.println("2. Depositar");
         System.out.println("3. Retirar");
